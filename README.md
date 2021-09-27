@@ -13,6 +13,6 @@ MADE# 0927
 #### 網址: [NKUST](https://www.nkust.edu.tw/"Title")
 :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
 
-
+![NKUST](182513897.png "第一科大")
 
 ![NKUST](https://github.com/Angel67894/0927/blob/main/182513897.png)
