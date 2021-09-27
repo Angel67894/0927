@@ -28,4 +28,4 @@ This is a long quote.
 - [ ] undo  
 - [ ] 2nd job    
 - [ ] 3rd job  
-- [ ] 4th work]  
+- [ ] 4th work  
