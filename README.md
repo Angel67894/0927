@@ -19,9 +19,9 @@ MADE# 0927
 
 This is `TEXT`
 
-...
+```
 This is a long quote.
-...
+```
 
 
 - [x] This is CHECKED  
