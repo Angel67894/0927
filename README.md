@@ -19,9 +19,6 @@ MADE# 0927
 
 This is `TEXT`
 
-```
-This is a long quote.
-```
 
 
 - [x] This is CHECKED  
@@ -29,3 +26,21 @@ This is a long quote.
 - [ ] 2nd job    
 - [ ] 3rd job  
 - [ ] 4th work  
+----------
+
+python code
+```
+This is a long quote.
+```
+
+javascript code
+```
+var s ="JavaScript syntax highlighting";
+alert(s);
+
+```
+
+| 左對齊 | 右對齊 | 居中對齊 |
+| :-----| ----: | :----: |
+| 單元格 | 單元格 | 單元格 |
+| 單元格 | 單元格 | 單元格 |
