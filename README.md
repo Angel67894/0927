@@ -40,7 +40,8 @@ alert(s);
 
 ```
 
-| 左對齊 | 右對齊 | 居中對齊 |
-| :-----| ----: | :----: |
-| 單元格 | 單元格 | 單元格 |
-| 單元格 | 單元格 | 單元格 |
+| Tables        |      Are      | Cool   |
+| :-------------| :-----------: | -----: |
+| col3 is       | right-aligend | $1600  |
+| col2 is       | centered      | $12    |
+| zebra stripes | are neat      | $1     |
